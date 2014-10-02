@@ -1,0 +1,1 @@
+SELECT id, name, has_cape, power, arch_nemesis FROM superheroes;
